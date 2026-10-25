@@ -1,0 +1,15 @@
+# Wordlists descargadas (grandes, no versionar)
+wordlists/
+*.txt.gz
+*.tar.gz
+rockyou.txt
+
+# Resultados de escaneos
+hallazgos.txt
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
